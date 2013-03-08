@@ -1,0 +1,16 @@
+*.pyc
+.staticroot/
+*~
+*.swp
+ext/*
+.svn
+.hg
+.project
+.pydevproject
+*.log
+*.pem
+*.pfx
+*.pdf
+.media_data/
+*no_git
+cache/
